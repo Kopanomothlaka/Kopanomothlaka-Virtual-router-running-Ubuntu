@@ -8,7 +8,7 @@ This repository contains a comprehensive guide on setting up a virtual router ru
 ## Comprehensive Report
 
 ### Introduction
-This work describes how to set up a virtual router running Ubuntu to facilitate communication between PCA and PCB. Network Address Translation (NAT), Dynamic Host Control Protocol (DHCP), firewall, and basic routing functionalities will all be configured under the. The network interfaces enp0s3, enp0s8, and enp0s9 are utilized for this. I designed the router and the clients using Ubuntu and Oracle Virtual Machines.
+This work describes how to set up a virtual router running Ubuntu to facilitate communication between client1 and client2. Network Address Translation (NAT), Dynamic Host Control Protocol (DHCP), firewall, and basic routing functionalities will all be configured under the. The network interfaces enp0s3, enp0s8, and enp0s9 are utilized for this. I designed the router and the clients using Ubuntu and Oracle Virtual Machines.
 
 ### Tools Used
 - **Linux Distribution:** Ubuntu Server sourced from the official Ubuntu website.
